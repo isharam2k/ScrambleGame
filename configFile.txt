@@ -1,0 +1,4 @@
+FactoriesRunning:3
+Word:q w e r t y,Rate:1
+Word:a e i o u,Rate:1
+Word:z s n m h,Rate:2
